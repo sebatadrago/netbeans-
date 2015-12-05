@@ -13,7 +13,7 @@ public class Archivo {
 
     public Archivo(String camino) {
         this.camino = camino;
-    }
+    }//ejemplo
 
     public void guardar(Lista listaEstudiante) {
         try {
